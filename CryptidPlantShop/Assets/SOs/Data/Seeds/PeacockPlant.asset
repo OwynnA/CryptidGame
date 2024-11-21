@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ffe8e46ca46f4b6ab7e2905b53d8842, type: 3}
   m_Name: PeacockPlant
   m_EditorClassIdentifier: 
-  water: 0
-  light: 0
-  dirtList: 
+  water: 2
+  light: 2
+  dirtList: 020000000400000007000000
   plantMaterial: {fileID: 0}
