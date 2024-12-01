@@ -9,9 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 38d73634088b340dda0b5ef91e912bc0, type: 3}
+  m_Script: {fileID: 11500000, guid: 3ffe8e46ca46f4b6ab7e2905b53d8842, type: 3}
   m_Name: AirPlant
   m_EditorClassIdentifier: 
   water: 2
   light: 3
-  dirtList: 030000000400000006000000
+  dirtList: 010000000400000005000000
+  plantMaterial: {fileID: 0}
